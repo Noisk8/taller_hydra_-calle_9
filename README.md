@@ -5,5 +5,11 @@ taller de hydra [ livecoding para visuales]
 
 https://ojack.xyz/hydra-functions/
 
+## hydra book 
+
+https://hydra-book.glitch.me/#/
+
+
+
 
 
